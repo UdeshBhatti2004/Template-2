@@ -495,7 +495,7 @@
 
     .footer-content-1 p {
         margin-left: 4vw;
-        font-size: 2vw;
+        font-size: 3vw;
     }
 
     .footer-part-2 {
@@ -506,7 +506,7 @@
 
     .footer-content-2 h1 {
         color: rgb(0, 255, 255, 0.797);
-        margin-top: 10vw;
+        margin-top: 14vw;
         margin-left: 4vw;
         font-size: 4vw;
     }
@@ -514,14 +514,32 @@
     .footer-content-2 p {
         margin-left: 4vw;
         width: 65vw;
-        font-size: 2vw;
+        font-size: 3vw;
     }
 
     .yellow-box {
         background-color: rgba(255, 255, 0, 0.823);
-        height: 20vw;
-        width: 35vw;
-        margin-top: 5vw;
+        height: 15vw;
+        width: 25vw;
+    }
+
+    .yellow-box-content {
+        margin-top: 4vw;
+        margin-left: 3vw;
+        font-size: 1vw;
+    }
+
+    .yellow-box-content h1 {
+        font-size: 1.5vw;
+        text-align: center;
+        line-height: 3vw;
+    }
+
+    .yellow-box {
+        background-color: rgba(255, 255, 0, 0.823);
+        height: 40vw;
+        width: 45vw;
+        margin-top: 20vw;
     }
 
     .yellow-box-content {
@@ -531,8 +549,11 @@
     }
 
     .yellow-box-content h1 {
-        font-size: 2vw;
+        font-size: 2.5vw;
         text-align: center;
-        line-height: 4vw;
+        line-height: 8vw;
     }
+
+    
+
 }
